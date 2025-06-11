@@ -7,13 +7,21 @@
 	"items": [
 		
 			{
+				"id": "http://darribas.micro.blog/2025/06/11/part-ii-of-the-gladpodcast.html",
+				
+				"content_html": "<p>🎧 Part II of the #GLaDpodcast on Navigating the Academic Job Market is out! Here we go all the way from application stage to (ideally) getting the job. Grab it wherever you get your podcasts!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "🎧 Part II of the #GLaDpodcast on Navigating the Academic Job Market is out! Here we go all the way from application stage to (ideally) getting the job. Grab it wherever you get your podcasts!\n\n<iframe title=\"Episode 23: Navigating the Academic Job Market (Part 2)\" allowtransparency=\"true\" height=\"300\" width=\"100%\" style=\"border: none; min-width: min(100%, 430px);height:300px;\" scrolling=\"no\" data-name=\"pb-iframe-player\" src=\"https://www.podbean.com/player-v2/?from=embed&i=j4g23-18cf658-pb&square=1&share=1&download=1&fonts=Arial&skin=1&font-color=auto&rtl=0&logo_link=episode_page&btn-skin=7&size=300\" loading=\"lazy\" allowfullscreen=\"\"></iframe>\n",
+				"date_published": "2025-06-11T09:56:46+01:00",
+				"url": "https://me.darribas.org/2025/06/11/part-ii-of-the-gladpodcast.html"
+			},
+			{
 				"id": "http://darribas.micro.blog/2025/06/03/how-to-do-ambitious-research.html",
 				"title": "🔗 How to Do Ambitious Research in the Modern Era",
 				"content_html": "<p>The director of Ink &amp; Switch on the research process. This is one of those rare videos that the internet is still able to produce with really big ideas and the feet on the ground, both boldly and firmly.</p>\n<h3 id=\"metadata\">Metadata</h3>\n<ul>\n<li>Author: Nemertes</li>\n<li>Category: video</li>\n<li>URL: <a href=\"https://www.youtube.com/watch?v=w7DVlI_Ztq8&amp;utm_source=inkandswitch&amp;utm_medium=email&amp;utm_campaign=dispatch-011-automerge-30-beta-sketchy-calendar\">www.youtube.com/watch</a></li>\n</ul>\n<h3 id=\"highlights\">Highlights</h3>\n<blockquote>\n<p>[Our research process] has three steps. Pre-infusion, execution, and then writing and reflection. […] pre-infusion is before you pull an espresso shot, which is intense pressure uh and like a short time, first you want to pre-oak the the coffee, pre-oak the puck for a few seconds. And that opens up the coffee so that everything else goes better. […] once we have clarity about what we&rsquo;re doing, we go into execution mode. […] being in the tunnel.[…] And then finally there&rsquo;s writing and reflection.</p>\n</blockquote>\n",
 				"content_text": "The director of Ink & Switch on the research process. This is one of those rare videos that the internet is still able to produce with really big ideas and the feet on the ground, both boldly and firmly.\n\n### Metadata\n- Author: Nemertes\n- Category: video\n- URL: [www.youtube.com/watch](https://www.youtube.com/watch?v=w7DVlI_Ztq8&utm_source=inkandswitch&utm_medium=email&utm_campaign=dispatch-011-automerge-30-beta-sketchy-calendar)\n\n### Highlights\n\n> [Our research process] has three steps. Pre-infusion, execution, and then writing and reflection. […] pre-infusion is before you pull an espresso shot, which is intense pressure uh and like a short time, first you want to pre-oak the the coffee, pre-oak the puck for a few seconds. And that opens up the coffee so that everything else goes better. […] once we have clarity about what we're doing, we go into execution mode. […] being in the tunnel.[…] And then finally there's writing and reflection.\n",
 				"date_published": "2025-06-03T22:04:58+01:00",
 				"url": "https://me.darribas.org/2025/06/03/how-to-do-ambitious-research.html",
-				"tags": ["Links","Photos"]
+				"tags": ["Links"]
 			},
 			{
 				"id": "http://darribas.micro.blog/2025/05/29/the-case-for-satellite-imagery.html",
@@ -89,9 +97,9 @@
 			},
 			{
 				"id": "http://darribas.micro.blog/2025/04/29/justin-vernon-talks-to-christa.html",
-				
-				"content_html": "<p>🎧 Justin Vernon talks to Christa Tippett</p>\n<p><a href=\"https://onbeing.org/programs/justin-vernon-being-bon-iver/\">onbeing.org/programs/&hellip;</a></p>\n<p>This is a heart warming conversation. I’ve now listened to a couple recent interviews and they have a similar spin, but this one sits a little more right with me.</p>\n",
-				"content_text": "🎧 Justin Vernon talks to Christa Tippett\n\n[onbeing.org/programs/...](https://onbeing.org/programs/justin-vernon-being-bon-iver/)\n\nThis is a heart warming conversation. I’ve now listened to a couple recent interviews and they have a similar spin, but this one sits a little more right with me. \n",
+				"title": "🎧 Justin Vernon talks to Christa Tippett",
+				"content_html": "<p><a href=\"https://onbeing.org/programs/justin-vernon-being-bon-iver/\">onbeing.org/programs/&hellip;</a></p>\n<p>This is a heart warming conversation. I’ve now listened to a couple recent interviews and they have a similar spin, but this one sits a little more right with me.</p>\n",
+				"content_text": "[onbeing.org/programs/...](https://onbeing.org/programs/justin-vernon-being-bon-iver/)\n\nThis is a heart warming conversation. I’ve now listened to a couple recent interviews and they have a similar spin, but this one sits a little more right with me. \n",
 				"date_published": "2025-04-29T21:46:47+01:00",
 				"url": "https://me.darribas.org/2025/04/29/justin-vernon-talks-to-christa.html",
 				"tags": ["Links"]
@@ -269,9 +277,9 @@
 			},
 			{
 				"id": "http://darribas.micro.blog/2025/03/22/the-unbelievable-scale-of-ais.html",
-				
-				"content_html": "<p>🔗 The Unbelievable Scale of AI’s Pirated-Books Problem</p>\n<h2 id=\"metadata\">Metadata</h2>\n<ul>\n<li>Author: Alex Reisner</li>\n<li>Category: article</li>\n<li>URL: <a href=\"https://www.theatlantic.com/technology/archive/2025/03/libgen-meta-openai/682093/\">www.theatlantic.com/technolog&hellip;</a></li>\n</ul>\n<h2 id=\"highlights\">Highlights</h2>\n<blockquote>\n<p>generative-AI chatbots are presented as oracles that have “learned” from their training data and often don’t cite sources (or cite imaginary sources). This decontextualizes knowledge, prevents humans from collaborating, and makes it harder for writers and researchers to build a reputation and engage in healthy intellectual debate.</p>\n</blockquote>\n",
-				"content_text": "🔗 The Unbelievable Scale of AI’s Pirated-Books Problem\n\n## Metadata\n- Author: Alex Reisner\n- Category: article\n- URL: [www.theatlantic.com/technolog...](https://www.theatlantic.com/technology/archive/2025/03/libgen-meta-openai/682093/)\n## Highlights\n\n> generative-AI chatbots are presented as oracles that have “learned” from their training data and often don’t cite sources (or cite imaginary sources). This decontextualizes knowledge, prevents humans from collaborating, and makes it harder for writers and researchers to build a reputation and engage in healthy intellectual debate.\n",
+				"title": "🔗 The Unbelievable Scale of AI’s Pirated-Books Problem",
+				"content_html": "<h3 id=\"metadata\">Metadata</h3>\n<ul>\n<li>Author: Alex Reisner</li>\n<li>Category: article</li>\n<li>URL: <a href=\"https://www.theatlantic.com/technology/archive/2025/03/libgen-meta-openai/682093/\">www.theatlantic.com/technolog&hellip;</a></li>\n</ul>\n<h3 id=\"highlights\">Highlights</h3>\n<blockquote>\n<p>generative-AI chatbots are presented as oracles that have “learned” from their training data and often don’t cite sources (or cite imaginary sources). This decontextualizes knowledge, prevents humans from collaborating, and makes it harder for writers and researchers to build a reputation and engage in healthy intellectual debate.</p>\n</blockquote>\n",
+				"content_text": "### Metadata\n- Author: Alex Reisner\n- Category: article\n- URL: [www.theatlantic.com/technolog...](https://www.theatlantic.com/technology/archive/2025/03/libgen-meta-openai/682093/)\n\n### Highlights\n\n> generative-AI chatbots are presented as oracles that have “learned” from their training data and often don’t cite sources (or cite imaginary sources). This decontextualizes knowledge, prevents humans from collaborating, and makes it harder for writers and researchers to build a reputation and engage in healthy intellectual debate.\n",
 				"date_published": "2025-03-22T22:27:54+01:00",
 				"url": "https://me.darribas.org/2025/03/22/the-unbelievable-scale-of-ais.html",
 				"tags": ["Links"]
@@ -296,18 +304,18 @@
 			},
 			{
 				"id": "http://darribas.micro.blog/2025/03/10/malka-older-on-narrative-disorders.html",
-				
-				"content_html": "<p>🔗 Malka Older on narrative disorders in the not so distant figure. Late to the party, but this piece is so insightful, such an elegant way to bring a bunch of trends and seemingly disparate phenomena under the arc of narrative.</p>\n<p><a href=\"https://firesidefiction.com/the-narrative-spectrum\">firesidefiction.com/the-narra&hellip;</a></p>\n",
-				"content_text": "🔗 Malka Older on narrative disorders in the not so distant figure. Late to the party, but this piece is so insightful, such an elegant way to bring a bunch of trends and seemingly disparate phenomena under the arc of narrative. \n\n[firesidefiction.com/the-narra...](https://firesidefiction.com/the-narrative-spectrum)\n",
+				"title": "🔗 Malka Older on narrative disorders in the not so distant figure. ",
+				"content_html": "<p>Late to the party, but this piece is so insightful, such an elegant way to bring a bunch of trends and seemingly disparate phenomena under the arc of narrative.</p>\n<p><a href=\"https://firesidefiction.com/the-narrative-spectrum\">firesidefiction.com/the-narra&hellip;</a></p>\n",
+				"content_text": "Late to the party, but this piece is so insightful, such an elegant way to bring a bunch of trends and seemingly disparate phenomena under the arc of narrative. \n\n[firesidefiction.com/the-narra...](https://firesidefiction.com/the-narrative-spectrum)\n",
 				"date_published": "2025-03-10T17:38:54+01:00",
 				"url": "https://me.darribas.org/2025/03/10/malka-older-on-narrative-disorders.html",
 				"tags": ["Links"]
 			},
 			{
 				"id": "http://darribas.micro.blog/2025/03/07/cellophane-oasis-metadata-author-paul.html",
-				
-				"content_html": "<p>🔗 Cellophane Oasis</p>\n<h2 id=\"metadata\">Metadata</h2>\n<ul>\n<li>Author: Paul Salopek</li>\n<li>Category: rss</li>\n<li>URL: <a href=\"https://outofedenwalk.nationalgeographic.org/articles/2025-02-cellophane-oasis\">outofedenwalk.nationalgeographic.org/articles/&hellip;</a></li>\n</ul>\n<h2 id=\"highlights\">Highlights</h2>\n<blockquote>\n<p><em>[…] the “convenience stores” of those olden says, were <a href=\"https://outofedenwalk.nationalgeographic.org/articles/2016-07-discovering-a-medieval-moon-base-in-the-heart-of-central-asia\">far more romantic steppe oases</a>, colorful caravanserais where sunburned merchants could swap stories and trade goods, as well as buy their camel fodder and egg salad sandwiches?</em></p>\n<p><em>Yet aren’t modern convenience stores much the same?</em></p>\n</blockquote>\n",
-				"content_text": "🔗 Cellophane Oasis\n\n## Metadata\n\n- Author: Paul Salopek\n- Category: rss\n- URL: [outofedenwalk.nationalgeographic.org/articles/...](https://outofedenwalk.nationalgeographic.org/articles/2025-02-cellophane-oasis)\n## Highlights\n\n> *[…] the “convenience stores” of those olden says, were [far more romantic steppe oases](https://outofedenwalk.nationalgeographic.org/articles/2016-07-discovering-a-medieval-moon-base-in-the-heart-of-central-asia), colorful caravanserais where sunburned merchants could swap stories and trade goods, as well as buy their camel fodder and egg salad sandwiches?*\n>\n> *Yet aren’t modern convenience stores much the same?*\n",
+				"title": "🔗 Cellophane Oasis",
+				"content_html": "<h3 id=\"metadata\">Metadata</h3>\n<ul>\n<li>Author: Paul Salopek</li>\n<li>Category: rss</li>\n<li>URL: <a href=\"https://outofedenwalk.nationalgeographic.org/articles/2025-02-cellophane-oasis\">outofedenwalk.nationalgeographic.org/articles/&hellip;</a></li>\n</ul>\n<h3 id=\"highlights\">Highlights</h3>\n<blockquote>\n<p><em>[…] the “convenience stores” of those olden says, were <a href=\"https://outofedenwalk.nationalgeographic.org/articles/2016-07-discovering-a-medieval-moon-base-in-the-heart-of-central-asia\">far more romantic steppe oases</a>, colorful caravanserais where sunburned merchants could swap stories and trade goods, as well as buy their camel fodder and egg salad sandwiches?</em></p>\n<p><em>Yet aren’t modern convenience stores much the same?</em></p>\n</blockquote>\n",
+				"content_text": "### Metadata\n\n- Author: Paul Salopek\n- Category: rss\n- URL: [outofedenwalk.nationalgeographic.org/articles/...](https://outofedenwalk.nationalgeographic.org/articles/2025-02-cellophane-oasis)\n### Highlights\n\n> *[…] the “convenience stores” of those olden says, were [far more romantic steppe oases](https://outofedenwalk.nationalgeographic.org/articles/2016-07-discovering-a-medieval-moon-base-in-the-heart-of-central-asia), colorful caravanserais where sunburned merchants could swap stories and trade goods, as well as buy their camel fodder and egg salad sandwiches?*\n>\n> *Yet aren’t modern convenience stores much the same?*\n",
 				"date_published": "2025-03-07T23:27:40+01:00",
 				"url": "https://me.darribas.org/2025/03/07/cellophane-oasis-metadata-author-paul.html",
 				"tags": ["Links"]
@@ -323,9 +331,9 @@
 			},
 			{
 				"id": "http://darribas.micro.blog/2025/03/05/184359.html",
-				
-				"content_html": "<p>🔗 The Guardian reviews Nord</p>\n<p><a href=\"https://www.theguardian.com/food/2025/mar/01/nord-liverpool-its-very-much-a-win-restaurant-review\">www.theguardian.com/food/2025&hellip;</a></p>\n<blockquote>\n<p>It’s part Austin Powers shag palace, part Mos Eisley Cantina from Star Wars. It really is groovy, baby.</p>\n</blockquote>\n",
-				"content_text": "🔗 The Guardian reviews Nord\n\n[www.theguardian.com/food/2025...](https://www.theguardian.com/food/2025/mar/01/nord-liverpool-its-very-much-a-win-restaurant-review)\n\n> It’s part Austin Powers shag palace, part Mos Eisley Cantina from Star Wars. It really is groovy, baby.\n",
+				"title": "🔗 The Guardian reviews Nord",
+				"content_html": "<p><a href=\"https://www.theguardian.com/food/2025/mar/01/nord-liverpool-its-very-much-a-win-restaurant-review\">www.theguardian.com/food/2025&hellip;</a></p>\n<blockquote>\n<p>It’s part Austin Powers shag palace, part Mos Eisley Cantina from Star Wars. It really is groovy, baby.</p>\n</blockquote>\n",
+				"content_text": "[www.theguardian.com/food/2025...](https://www.theguardian.com/food/2025/mar/01/nord-liverpool-its-very-much-a-win-restaurant-review)\n\n> It’s part Austin Powers shag palace, part Mos Eisley Cantina from Star Wars. It really is groovy, baby.\n",
 				"date_published": "2025-03-05T19:43:59+01:00",
 				"url": "https://me.darribas.org/2025/03/05/184359.html",
 				"tags": ["Links","Academic"]
@@ -341,16 +349,16 @@
 			},
 			{
 				"id": "http://darribas.micro.blog/2025/03/04/104217.html",
-				
-				"content_html": "<p>🔗 JupyterGIS</p>\n<p><a href=\"https://blog.jupyter.org/real-time-collaboration-and-collaborative-editing-for-gis-workflows-with-jupyter-and-qgis-d25dbe2832a6\">blog.jupyter.org/real-time&hellip;</a></p>\n<p>Baking a bit of geo right on top of Jupyter “ is a great idea for both the Jupyter and geo worlds. Plenty of room to leverage the geo data science py-stack!</p>\n",
-				"content_text": "🔗 JupyterGIS\n\n[blog.jupyter.org/real-time...](https://blog.jupyter.org/real-time-collaboration-and-collaborative-editing-for-gis-workflows-with-jupyter-and-qgis-d25dbe2832a6)\n\nBaking a bit of geo right on top of Jupyter “ is a great idea for both the Jupyter and geo worlds. Plenty of room to leverage the geo data science py-stack!\n",
+				"title": "🔗 JupyterGIS",
+				"content_html": "<p><a href=\"https://blog.jupyter.org/real-time-collaboration-and-collaborative-editing-for-gis-workflows-with-jupyter-and-qgis-d25dbe2832a6\">blog.jupyter.org/real-time&hellip;</a></p>\n<p>Baking a bit of geo right on top of Jupyter “ is a great idea for both the Jupyter and geo worlds. Plenty of room to leverage the geo data science py-stack!</p>\n",
+				"content_text": "\n[blog.jupyter.org/real-time...](https://blog.jupyter.org/real-time-collaboration-and-collaborative-editing-for-gis-workflows-with-jupyter-and-qgis-d25dbe2832a6)\n\nBaking a bit of geo right on top of Jupyter “ is a great idea for both the Jupyter and geo worlds. Plenty of room to leverage the geo data science py-stack!\n",
 				"date_published": "2025-03-04T11:42:17+01:00",
 				"url": "https://me.darribas.org/2025/03/04/104217.html",
 				"tags": ["Links","Academic"]
 			},
 			{
 				"id": "http://darribas.micro.blog/2025/03/02/writing-a-novel-about-really.html",
-				
+				"title": "🎧 Interview with Steven Markley",
 				"content_html": "<p>🎧 <a href=\"https://www.volts.wtf/p/on-writing-an-ambitious-and-terrifyingly\">Writing a novel about, really about, climate change</a></p>\n<blockquote>\n<p>Interview with Steven Markley, author of my very most favorite book of last year. Pretty wonky and and insightful conversation on the next couple of decades for climate, politics, and society.</p>\n</blockquote>\n",
 				"content_text": "🎧 [Writing a novel about, really about, climate change](https://www.volts.wtf/p/on-writing-an-ambitious-and-terrifyingly)\n\n> Interview with Steven Markley, author of my very most favorite book of last year. Pretty wonky and and insightful conversation on the next couple of decades for climate, politics, and society. \n",
 				"date_published": "2025-03-02T22:16:07+01:00",
@@ -369,8 +377,8 @@
 			{
 				"id": "http://darribas.micro.blog/2025/03/01/pluralistic-apples-encryption-capitulation-feb.html",
 				"title": "🔗 Pluralistic: Apple's encryption capitulation (25 Feb 2025)",
-				"content_html": "<p>&lt;!—more—&gt;</p>\n<h2 id=\"metadata\">Metadata</h2>\n<ul>\n<li>Author: Cory Doctorow</li>\n<li>Category: rss</li>\n<li>URL: <a href=\"https://pluralistic.net/2025/02/25/sneak-and-peek/\">pluralistic.net/2025/02/2&hellip;</a></li>\n</ul>\n<h2 id=\"highlights\">Highlights</h2>\n<blockquote>\n<p>Apple announced it will disable a vital security feature for every UK user. This is a terrible outcome, but it just might be the best one, given the circumstances</p>\n</blockquote>\n<blockquote>\n<p>In 2016, Theresa May&rsquo;s Conservative government passed a law called the &ldquo;Investigative Powers Act,&rdquo; better known as the &ldquo;Snooper&rsquo;s Charter&rdquo;</p>\n</blockquote>\n<blockquote>\n<p>If we&rsquo;re going to fault Theresa May&rsquo;s Conservatives for refusing to heed the warnings of the risks introduced by the Snooper&rsquo;s Charter, we should be every bit as critical of Apple for chasing profits at the expense of billions of its customers in the face of warnings that its &ldquo;curated computing&rdquo; model would <em>inevitably</em> give rise to the Snooper&rsquo;s Charter and laws like it.</p>\n</blockquote>\n",
-				"content_text": "<!—more—>\n\n## Metadata\n\n- Author: Cory Doctorow\n- Category: rss\n- URL: [pluralistic.net/2025/02/2...](https://pluralistic.net/2025/02/25/sneak-and-peek/)\n\n## Highlights\n\n> Apple announced it will disable a vital security feature for every UK user. This is a terrible outcome, but it just might be the best one, given the circumstances\n\n> In 2016, Theresa May's Conservative government passed a law called the \"Investigative Powers Act,\" better known as the \"Snooper's Charter\"\n\n> If we're going to fault Theresa May's Conservatives for refusing to heed the warnings of the risks introduced by the Snooper's Charter, we should be every bit as critical of Apple for chasing profits at the expense of billions of its customers in the face of warnings that its \"curated computing\" model would *inevitably* give rise to the Snooper's Charter and laws like it.\n",
+				"content_html": "<h3 id=\"metadata\">Metadata</h3>\n<ul>\n<li>Author: Cory Doctorow</li>\n<li>Category: rss</li>\n<li>URL: <a href=\"https://pluralistic.net/2025/02/25/sneak-and-peek/\">pluralistic.net/2025/02/2&hellip;</a></li>\n</ul>\n<h3 id=\"highlights\">Highlights</h3>\n<blockquote>\n<p>Apple announced it will disable a vital security feature for every UK user. This is a terrible outcome, but it just might be the best one, given the circumstances</p>\n</blockquote>\n<blockquote>\n<p>In 2016, Theresa May&rsquo;s Conservative government passed a law called the &ldquo;Investigative Powers Act,&rdquo; better known as the &ldquo;Snooper&rsquo;s Charter&rdquo;</p>\n</blockquote>\n<blockquote>\n<p>If we&rsquo;re going to fault Theresa May&rsquo;s Conservatives for refusing to heed the warnings of the risks introduced by the Snooper&rsquo;s Charter, we should be every bit as critical of Apple for chasing profits at the expense of billions of its customers in the face of warnings that its &ldquo;curated computing&rdquo; model would <em>inevitably</em> give rise to the Snooper&rsquo;s Charter and laws like it.</p>\n</blockquote>\n",
+				"content_text": "### Metadata\n\n- Author: Cory Doctorow\n- Category: rss\n- URL: [pluralistic.net/2025/02/2...](https://pluralistic.net/2025/02/25/sneak-and-peek/)\n\n### Highlights\n\n> Apple announced it will disable a vital security feature for every UK user. This is a terrible outcome, but it just might be the best one, given the circumstances\n\n> In 2016, Theresa May's Conservative government passed a law called the \"Investigative Powers Act,\" better known as the \"Snooper's Charter\"\n\n> If we're going to fault Theresa May's Conservatives for refusing to heed the warnings of the risks introduced by the Snooper's Charter, we should be every bit as critical of Apple for chasing profits at the expense of billions of its customers in the face of warnings that its \"curated computing\" model would *inevitably* give rise to the Snooper's Charter and laws like it.\n",
 				"date_published": "2025-03-01T16:10:14+01:00",
 				"url": "https://me.darribas.org/2025/03/01/pluralistic-apples-encryption-capitulation-feb.html",
 				"tags": ["Links"]
