@@ -7,12 +7,40 @@
 	"items": [
 		
 			{
+				"id": "http://darribas.micro.blog/2025/06/26/last-week-in-earth-observation.html",
+				"title": "🔗 Last Week in Earth Observation: May 26, 2025",
+				"content_html": "<p>Aravind has a really interesting take on why the hyperscalers are moving into the weather model space.</p>\n<h3 id=\"metadata\">Metadata</h3>\n<ul>\n<li>Author: Aravind</li>\n<li>Category: rss</li>\n<li>URL: <a href=\"https://newsletter.terrawatchspace.com/last-week-in-earth-observation-may-26-2025/\">newsletter.terrawatchspace.com/last-week&hellip;</a></li>\n</ul>\n<h3 id=\"highlights\">Highlights</h3>\n<blockquote>\n<p>I think the real story here is not about weather accuracy, and it is definitely not about replacing ECMWF or NOAA in the future.</p>\n</blockquote>\n<blockquote>\n<p>This is really about weather becoming part of the cloud infrastructure, about turning forecasting into a cloud-native service that’s deeply embedded within their compute ecosystems.</p>\n</blockquote>\n<blockquote>\n<p>For sectors such as energy, insurance, agriculture, logistics and finance, weather is not just data, it is a key decision driver. If you can offer native, on-demand, customisable forecasts, users will start building their products and workflows around you: models, simulations, dashboards, alerts and triggers, aka a <em><strong>sticky service layer</strong></em>.</p>\n</blockquote>\n<blockquote>\n<p>TL;DR: I think Google and Microsoft are trying to make weather foundational by turning it into a programmable infrastructure layer, that powers the horizontal layer of weather intelligence and climate services.</p>\n</blockquote>\n",
+				"content_text": "Aravind has a really interesting take on why the hyperscalers are moving into the weather model space.\n\n### Metadata\n- Author: Aravind\n- Category: rss\n- URL: [newsletter.terrawatchspace.com/last-week...](https://newsletter.terrawatchspace.com/last-week-in-earth-observation-may-26-2025/)\n\n### Highlights\n\n> I think the real story here is not about weather accuracy, and it is definitely not about replacing ECMWF or NOAA in the future.\n\n> This is really about weather becoming part of the cloud infrastructure, about turning forecasting into a cloud-native service that’s deeply embedded within their compute ecosystems.\n\n> For sectors such as energy, insurance, agriculture, logistics and finance, weather is not just data, it is a key decision driver. If you can offer native, on-demand, customisable forecasts, users will start building their products and workflows around you: models, simulations, dashboards, alerts and triggers, aka a ***sticky service layer***.\n\n> TL;DR: I think Google and Microsoft are trying to make weather foundational by turning it into a programmable infrastructure layer, that powers the horizontal layer of weather intelligence and climate services.\n",
+				"date_published": "2025-06-26T15:26:32+01:00",
+				"url": "https://me.darribas.org/2025/06/26/last-week-in-earth-observation.html",
+				"tags": ["Links"]
+			},
+			{
+				"id": "http://darribas.micro.blog/2025/06/13/the-copilot-delusion.html",
+				"title": "🔗 The Copilot Delusion",
+				"content_html": "<h3 id=\"metadata\">Metadata</h3>\n<ul>\n<li>Author: Jj, May 22</li>\n<li>Category: article</li>\n<li>URL: <a href=\"https://deplet.ing/the-copilot-delusion/\">deplet.ing/the-copil&hellip;</a></li>\n</ul>\n<h3 id=\"highlights\">Highlights</h3>\n<blockquote>\n<p>It doesn’t point you to the holy scrolls where veterans debate exception guarantees like theologians dissecting scripture. But if you already know what you want and just need the incantation, it’s a better, quicker scribe than most human interns</p>\n</blockquote>\n<blockquote>\n<p>&ldquo;But I just use AI for boilerplate!&rdquo; you whimper, clutching your Co-Pilot subscription. Listen to yourself. If you’re writing the same boilerplate every day like some industrial-age cog monkey, automate it <em>yourself</em>. Write a library. Invent a macro. Reclaim some dignity. If AI’s doing your &ldquo;boring parts&rdquo;, what exactly is <em>left</em> for you to do? Fidget with sliders? Paint by numbers while the inference works it&rsquo;s magic?</p>\n</blockquote>\n<blockquote>\n<p>When you outsource the thinking, you outsource the learning.</p>\n</blockquote>\n<blockquote>\n<p>The problem isn’t just laziness. It’s <em>degradation</em>.</p>\n</blockquote>\n",
+				"content_text": "### Metadata\r\n\r\n- Author: Jj, May 22\r\n- Category: article\r\n- URL: [deplet.ing/the-copil...](https://deplet.ing/the-copilot-delusion/)\r\n\r\n### Highlights\r\n\r\n> It doesn’t point you to the holy scrolls where veterans debate exception guarantees like theologians dissecting scripture. But if you already know what you want and just need the incantation, it’s a better, quicker scribe than most human interns\r\n\r\n> \"But I just use AI for boilerplate!\" you whimper, clutching your Co-Pilot subscription. Listen to yourself. If you’re writing the same boilerplate every day like some industrial-age cog monkey, automate it *yourself*. Write a library. Invent a macro. Reclaim some dignity. If AI’s doing your \"boring parts\", what exactly is *left* for you to do? Fidget with sliders? Paint by numbers while the inference works it's magic?\r\n\r\n> When you outsource the thinking, you outsource the learning.\r\n\r\n> The problem isn’t just laziness. It’s *degradation*.\r\n",
+				"date_published": "2025-06-13T13:15:13+01:00",
+				"url": "https://me.darribas.org/2025/06/13/the-copilot-delusion.html",
+				"tags": ["Links"]
+			},
+			{
+				"id": "http://darribas.micro.blog/2025/06/13/getting-excited-for-esas-living.html",
+				
+				"content_html": "<p>Getting excited for ESA&rsquo;s <a href=\"https://lps25.esa.int/\">Living Planet Symposium</a>, to happen in Vienna in just over a week! I&rsquo;ll be there Sunday to Thursday, who else is coming? hit me up if you&rsquo;d like to talk all things Imago or just catch up!</p>\n",
+				"content_text": "Getting excited for ESA's [Living Planet Symposium](https://lps25.esa.int/), to happen in Vienna in just over a week! I'll be there Sunday to Thursday, who else is coming? hit me up if you'd like to talk all things Imago or just catch up!\n",
+				"date_published": "2025-06-13T12:14:40+01:00",
+				"url": "https://me.darribas.org/2025/06/13/getting-excited-for-esas-living.html",
+				"tags": ["Notes","Academic"]
+			},
+			{
 				"id": "http://darribas.micro.blog/2025/06/11/part-ii-of-the-gladpodcast.html",
 				
 				"content_html": "<p>🎧 Part II of the #GLaDpodcast on Navigating the Academic Job Market is out! Here we go all the way from application stage to (ideally) getting the job. Grab it wherever you get your podcasts!</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "🎧 Part II of the #GLaDpodcast on Navigating the Academic Job Market is out! Here we go all the way from application stage to (ideally) getting the job. Grab it wherever you get your podcasts!\n\n<iframe title=\"Episode 23: Navigating the Academic Job Market (Part 2)\" allowtransparency=\"true\" height=\"300\" width=\"100%\" style=\"border: none; min-width: min(100%, 430px);height:300px;\" scrolling=\"no\" data-name=\"pb-iframe-player\" src=\"https://www.podbean.com/player-v2/?from=embed&i=j4g23-18cf658-pb&square=1&share=1&download=1&fonts=Arial&skin=1&font-color=auto&rtl=0&logo_link=episode_page&btn-skin=7&size=300\" loading=\"lazy\" allowfullscreen=\"\"></iframe>\n",
 				"date_published": "2025-06-11T09:56:46+01:00",
-				"url": "https://me.darribas.org/2025/06/11/part-ii-of-the-gladpodcast.html"
+				"url": "https://me.darribas.org/2025/06/11/part-ii-of-the-gladpodcast.html",
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://darribas.micro.blog/2025/06/03/how-to-do-ambitious-research.html",
@@ -45,7 +73,7 @@
 				"id": "http://darribas.micro.blog/2025/05/24/new-places-new-perspectives-all.html",
 				
 				"content_html": "<p><a href=\"https://genius.com/Looptroop-rockers-the-shoes-of-a-world-traveler-lyrics\"><em>“New places, new perspectives</em></a></p>\n<p><a href=\"https://genius.com/Looptroop-rockers-the-shoes-of-a-world-traveler-lyrics\"><em>All the dots on the map are clearly connected”</em></a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "[_“New places, new perspectives_](https://genius.com/Looptroop-rockers-the-shoes-of-a-world-traveler-lyrics)\n\n[_All the dots on the map are clearly connected”_](https://genius.com/Looptroop-rockers-the-shoes-of-a-world-traveler-lyrics)\n\n<img src=\"uploads/2025/8dc4b417526e46a1963ff840fe9dc0dd.jpg\" width=\"600\" height=\"405\" alt=\"\">\n",
+				"content_text": "[_“New places, new perspectives_](https://genius.com/Looptroop-rockers-the-shoes-of-a-world-traveler-lyrics)\n\n[_All the dots on the map are clearly connected”_](https://genius.com/Looptroop-rockers-the-shoes-of-a-world-traveler-lyrics)\n\n<img src=\"https://me.darribas.org/uploads/2025/8dc4b417526e46a1963ff840fe9dc0dd.jpg\" width=\"600\" height=\"405\" alt=\"\">\n",
 				"date_published": "2025-05-24T21:42:10+01:00",
 				"url": "https://me.darribas.org/2025/05/24/new-places-new-perspectives-all.html",
 				"tags": ["Photos"]
