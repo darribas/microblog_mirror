@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://darribas.micro.blog/2025/07/02/new-phd-a-collab-between.html",
+				
+				"content_html": "<p>New PhD, a collab between IBM Research, SDR-UK&rsquo;s own Geographic and Imagery Data Services to explore using vision foundation models &amp; high resolution imagery of the Liverpool City Region. If this sounds like you (or a friend!), all info <a href=\"https://geods.ac.uk/2025/07/02/phd-funding-multi-scale-urban-remote-sensing-with-ai/\">here</a>!</p>\n",
+				"content_text": "New PhD, a collab between IBM Research, SDR-UK's own Geographic and Imagery Data Services to explore using vision foundation models & high resolution imagery of the Liverpool City Region. If this sounds like you (or a friend!), all info [here](https://geods.ac.uk/2025/07/02/phd-funding-multi-scale-urban-remote-sensing-with-ai/)!\n",
+				"date_published": "2025-07-02T09:34:57+01:00",
+				"url": "https://me.darribas.org/2025/07/02/new-phd-a-collab-between.html",
+				"tags": ["Notes"]
+			},
+			{
 				"id": "http://darribas.micro.blog/2025/06/26/last-week-in-earth-observation.html",
 				"title": "🔗 Last Week in Earth Observation: May 26, 2025",
 				"content_html": "<p>Aravind has a really interesting take on why the hyperscalers are moving into the weather model space.</p>\n<h3 id=\"metadata\">Metadata</h3>\n<ul>\n<li>Author: Aravind</li>\n<li>Category: rss</li>\n<li>URL: <a href=\"https://newsletter.terrawatchspace.com/last-week-in-earth-observation-may-26-2025/\">newsletter.terrawatchspace.com/last-week&hellip;</a></li>\n</ul>\n<h3 id=\"highlights\">Highlights</h3>\n<blockquote>\n<p>I think the real story here is not about weather accuracy, and it is definitely not about replacing ECMWF or NOAA in the future.</p>\n</blockquote>\n<blockquote>\n<p>This is really about weather becoming part of the cloud infrastructure, about turning forecasting into a cloud-native service that’s deeply embedded within their compute ecosystems.</p>\n</blockquote>\n<blockquote>\n<p>For sectors such as energy, insurance, agriculture, logistics and finance, weather is not just data, it is a key decision driver. If you can offer native, on-demand, customisable forecasts, users will start building their products and workflows around you: models, simulations, dashboards, alerts and triggers, aka a <em><strong>sticky service layer</strong></em>.</p>\n</blockquote>\n<blockquote>\n<p>TL;DR: I think Google and Microsoft are trying to make weather foundational by turning it into a programmable infrastructure layer, that powers the horizontal layer of weather intelligence and climate services.</p>\n</blockquote>\n",
