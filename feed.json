@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://darribas.micro.blog/2025/08/31/why-were-talking-about-a.html",
+				"title": "🔗 Why We’re Talking About a Centralized Vector Embeddings Catalog Now",
+				"content_html": "<p>The white paper mentioned below is well worth a read. It puts in much more eloquent words many of the reasons why I&rsquo;m very excited about the new generation of satellite foundation models and the potential embeddings have to make satellite data more useful, useable, and used! A lot of food for thought and great argumentation for why we need to think about satellite images more and more like abstract tables than like images of pixels.</p>\n<h3 id=\"metadata\">Metadata</h3>\n<ul>\n<li>Author: Nathan Zimmerman</li>\n<li>Category: article</li>\n<li>URL: <a href=\"https://element84.com/machine-learning/why-were-talking-about-a-centralized-vector-embeddings-catalog-now/\">element84.com/machine-l&hellip;</a></li>\n</ul>\n<h3 id=\"highlights\">Highlights</h3>\n<blockquote>\n<p>our team published a <a href=\"https://github.com/Element84/vector-embeddings-catalog-whitepaper\">detailed white paper</a> in which we make the case for how Earth Observation (EO) data providers such as NASA can dramatically improve access to their data by creating a centralized <strong>vector embeddings catalog</strong></p>\n</blockquote>\n",
+				"content_text": "The white paper mentioned below is well worth a read. It puts in much more eloquent words many of the reasons why I'm very excited about the new generation of satellite foundation models and the potential embeddings have to make satellite data more useful, useable, and used! A lot of food for thought and great argumentation for why we need to think about satellite images more and more like abstract tables than like images of pixels.\n\n### Metadata\n- Author: Nathan Zimmerman\n- Category: article\n- URL: [element84.com/machine-l...](https://element84.com/machine-learning/why-were-talking-about-a-centralized-vector-embeddings-catalog-now/)\n\n### Highlights\n\n> our team published a [detailed white paper](https://github.com/Element84/vector-embeddings-catalog-whitepaper) in which we make the case for how Earth Observation (EO) data providers such as NASA can dramatically improve access to their data by creating a centralized **vector embeddings catalog**\n",
+				"date_published": "2025-08-31T15:59:32+01:00",
+				"url": "https://me.darribas.org/2025/08/31/why-were-talking-about-a.html",
+				"tags": ["Links","Academic"]
+			},
+			{
 				"id": "http://darribas.micro.blog/2025/08/13/we-gave-in-to-the.html",
 				
 				"content_html": "<p>We gave in to the hype and did one #GLaDpodcast <a href=\"https://www.podbean.com/ew/pb-hva24-193194d\">episode</a> on how we use AI, for Geography, Life, Geography Life, and data&hellip;</p>\n<!-- raw HTML omitted -->\n",
