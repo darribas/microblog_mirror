@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://darribas.micro.blog/2026/02/04/how-markdown-took-over-the.html",
+				"title": "🔗 How Markdown took over the world",
+				"content_html": "<p>Sobre very good Internet History lesson, full of delicious details that corroborate the idea the web is built more on the nice part of human beings than the not so nice.</p>\n<h3 id=\"metadata\">Metadata</h3>\n<ul>\n<li>Author: Anil Dash</li>\n<li>Category: rss</li>\n<li>URL: <a href=\"https://anildash.com/2026/01/09/how-markdown-took-over-the-world/\">anildash.com/2026/01/0&hellip;</a></li>\n</ul>\n<h3 id=\"highlights\">Highlights</h3>\n<blockquote>\n<p>But it’s important for <em>everyone</em> to know that the Internet, and the tech industry, don’t run without the generosity and genius of regular people. It is not just billion-dollar checks and Silicon Valley boardrooms that enable creativity over years, decades, or generations — it’s often a guy with a day job who just gives a damn about doing something right, sweating the details and assuming that if he cares enough about what he makes then others will too.</p>\n</blockquote>\n",
+				"content_text": "Sobre very good Internet History lesson, full of delicious details that corroborate the idea the web is built more on the nice part of human beings than the not so nice. \n\n### Metadata\n- Author: Anil Dash\n- Category: rss\n- URL: [anildash.com/2026/01/0...](https://anildash.com/2026/01/09/how-markdown-took-over-the-world/)\n\n### Highlights\n\n> But it’s important for *everyone* to know that the Internet, and the tech industry, don’t run without the generosity and genius of regular people. It is not just billion-dollar checks and Silicon Valley boardrooms that enable creativity over years, decades, or generations — it’s often a guy with a day job who just gives a damn about doing something right, sweating the details and assuming that if he cares enough about what he makes then others will too.\n",
+				"date_published": "2026-02-04T22:42:56+00:00",
+				"url": "https://me.darribas.org/2026/02/04/how-markdown-took-over-the.html",
+				"tags": ["Links"]
+			},
+			{
 				"id": "http://darribas.micro.blog/2026/01/28/yesterday-we-the-imago-team.html",
 				
 				"content_html": "<p>Yesterday, we (the <a href=\"https://imago.ac.uk\">Imago</a> team) gave a workshop on satellite embeddings for a room with about 50 people from different corners of the UK Government. It was fantastic in every respect (with the possible exception of Github bringing down our website because it thought it was receiving a DDoS attack lol). It&rsquo;s so exciting to see these ideas and technology move at the speed of light from state of the art research to Government. Anything we can do at <a href=\"https://imago.ac.uk\">Imago</a> to facilitate that transfer, we&rsquo;re here for that!</p>\n<p>If you&rsquo;re curious, materials are available at:</p>\n<p><a href=\"https://imago-sdruk.github.io/EMBED2Social-Workshop-2026/\">imago-sdruk.github.io/EMBED2Soc&hellip;</a></p>\n<p>And if this looks interesting to your and/or your organisation, do get in touch!</p>\n",
