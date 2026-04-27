@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://darribas.micro.blog/2026/04/27/early-starts.html",
+				
+				"content_html": "<p>Early starts</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Early starts\n\n<img src=\"uploads/2026/b484cfc8ea.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-04-27T07:22:50+01:00",
+				"url": "https://me.darribas.org/2026/04/27/early-starts.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://darribas.micro.blog/2026/04/24/happy-data-release-day-to.html",
+				
+				"content_html": "<p>Happy data release day to those who celebrate!!! We&rsquo;ve been working really hard (how hard can it be to count clouds? a lot, it turns out&hellip;) to bring you all your cloudy needs neatly packaged. If you play with SPF, we&rsquo;d love to hear from you!</p>\n<p><a href=\"https://imago.ac.uk/news/imago-releases-sun-probability-framework-spf-10-a-dataset-linking-cloudiness-to-people-and-places\">imago.ac.uk/news/imag&hellip;</a></p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Happy data release day to those who celebrate!!! We've been working really hard (how hard can it be to count clouds? a lot, it turns out...) to bring you all your cloudy needs neatly packaged. If you play with SPF, we'd love to hear from you!\n\n[imago.ac.uk/news/imag...](https://imago.ac.uk/news/imago-releases-sun-probability-framework-spf-10-a-dataset-linking-cloudiness-to-people-and-places)\n\n<img src=\"uploads/2026/image.png\" alt=\"\">\n",
+				"date_published": "2026-04-24T13:24:58+01:00",
+				"url": "https://me.darribas.org/2026/04/24/happy-data-release-day-to.html",
+				"tags": ["Notes","Academic"]
+			},
+			{
 				"id": "http://darribas.micro.blog/2026/04/23/the-people-do-not-yearn.html",
 				"title": "🔗  THE PEOPLE DO NOT YEARN FOR AUTOMATION",
 				"content_html": "<p>Amen.</p>\n<h3 id=\"metadata\">Metadata</h3>\n<ul>\n<li>Author: The Verge</li>\n<li>Category: podcast</li>\n<li>URL: <a href=\"https://podcasts.apple.com/gb/podcast/decoder-with-nilay-patel/id1011668648?i=1000763259095\">podcasts.apple.com/gb/podcas&hellip;</a></li>\n</ul>\n<h3 id=\"highlights\">Highlights</h3>\n<blockquote>\n<p>[21:51] I&rsquo;m just saying these things aren&rsquo;t everything, that not everything about our lives can be measured and automated and optimized. It shouldn&rsquo;t be. And so the tech industry is rushing forward to put AI everywhere at enormous cost: energy, emissions, manufacturing capacity, the ability to buy RAM, locked into the narrow framework of software brain without realizing they are also asking people to be fundamentally less human. And then they&rsquo;re sitting around wondering why everyone hates them. I don&rsquo;t think a couple of haircuts are going to fix it.</p>\n</blockquote>\n",
