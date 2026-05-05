@@ -24,6 +24,45 @@
 	
 	  <div class="h-entry">
 		
+			<h1><a href="https://me.darribas.org/2026/05/05/what-battersea-power-station-taught.html">What Battersea Power Station taught me about the value of satellite embeddings</a></h1>
+		
+
+		<a href="https://me.darribas.org/2026/05/05/what-battersea-power-station-taught.html" class="u-url"><time class="dt-published" datetime="2026-05-05 09:59:51 &#43;0100">May 5, 2026</time></a>
+
+		<div class="e-content">
+			 <p>Sometimes, magic finds its way through the forest of math that underpins most of my research. I spent a good amount of time a couple of weeks ago working on our embeddings workshop for <a href="%5Bhttps://2026.gisruk.org%5D(https://2026.gisruk.org/)">GISRUK</a>. We just released a new <a href="https://imago.ac.uk/news/imago-releases-google-satellite-embeddings-at-the-small-area-level-across-uk">data product</a> with Google satellite embeddings for small areas in the UK, and we couldn’t wait to take it on the road. This post is a note about one of the most insightful moments I had while preparing the materials but, if you want to check out the entire workshop, it’s all open at:</p>
+<blockquote>
+<p><a href="https://imago-sdruk.github.io/embeddings_workshop/jupyterlite/content/02-Change.html">https://imago-sdruk.github.io/embeddings_workshop/jupyterlite/content/02-Change.html</a></p>
+</blockquote>
+<p>One of the most appealing characteristics of satellite embeddings is their ability to explore change. Since embeddings map the information in an image to a shared latent space, it doesn’t matter <em>where</em> or <em>when</em> that image was taken, it all gets encoded in the same mathematical “language”. Exploring whether the location of an image is similar or not to that of a different image; or whether such location has changed compared to what it looked like at a different point in time, is relatively straightforward. You can play with the “comparison across space” idea in our Imago <a href="https://imago-sdruk.github.io/embeddings-uk-explorer/">UK embedding Explorer</a>. And we played with change across time in <a href="https://imago-sdruk.github.io/embeddings_workshop/jupyterlite/content/02-Change.html">this notebook</a>.</p>
+<p>The part that got me is the last exercise. We ask the question <em>what area has become the most like Hyde Park between 2020 and 2024?</em> This seems a bit esoteric but, I think, is an interesting one to ask. We know areas change within a city all the time, wouldn’t it be cool to know which ones are becoming more like some specific landmarks? In the workshop, I called it “Hyde Park-ification”, but I may deny this in public… It also turns out this is relatively straightforward to check with embeddings. You can follow all the details, code included, in the notebook. The gist is you calculate how similar all areas are to Hyde Park in both years, take the difference of that distance, and pick your winner as the smallest of those.</p>
+<p>Here’s our winner<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>:</p>
+<p>For the uninitiated reader, this is <a href="https://en.wikipedia.org/wiki/Battersea_Power_Station">Battersea Power Station</a>. Which, even if all you know is the first photo in the Wikipedia page I just linked to, you’d be forgiven to think this embeddings sorcery is nonsense. This is as far as you can get from Hyde Park in terms of look and feel. So, where’s the catch?</p>
+<p>The catch, of course, is that we are not looking into overall similarity, but <em>change</em>. Our approach looks for areas that, over the period we consider, have <em>become more like</em> Hyde Park. That does not mean they <em>are</em> like Hyde Park. There’s another interesting bit we show in the notebook: Battersea Station, by the standards of the areas we use, has changed <em>very little</em>. Again, this is counterintuitive maybe, but not incompatible with what we’re asking of embeddings in this exercise: you can change very little, but entirely in one particular direction.</p>
+<p>As it turns out, this is what happened to our winner. This insight did not come painlessly to me, as I struggled through a good 20/30 minutes of scratching my head about whether I was asking too much of this technology (particularly when it’s aggregated from the pixel to an irregular area). I’m glad I stuck with this and followed it to the bottom. And I’m glad Google keeps funding Google Earth for free, including its time travel feature. Below is a comparison of the area in question between 2020 and 2024<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup>:</p>
+<p>If you can’t spot the difference (I couldn’t for the first ten minutes), follow the red arrow (which wasn’t there when I was looking for twenty minutes). The area, broadly speaking, has not changed much (which checks out with our low score of change). It was, and still is, a retired power station turned epicenter of cool south of the river. Mostly chimneys, mostly concrete. But there’s a small part that <em>has</em> changed. A small patch by the river used to be concrete buildings but, in between 2020 and 2024, it was flattened. Instead, it is now a patch of grass where Londoners enjoy the three days a year where the sun shines with all its fury<sup id="fnref:3"><a href="#fn:3" class="footnote-ref" role="doc-noteref">3</a></sup>. You can see some of the before and after photos in <a href="https://www.bbc.co.uk/news/uk-england-london-63234124">this article</a> by the BBC.</p>
+<p>I love this example because it captures very well why I’m so excited about embeddings and about making them accessible to more people through data products like our <a href="https://data.imago.ac.uk/datasets/google-satellite-embedding-v1-small-areas-2017-2024">small area one</a>. I knocked out that notebook in about an hour (if you exclude my Google Earth rabbit hole). In that period, I was able to leverage data from seven massive satellite sources (see Figure S2 in <a href="https://arxiv.org/abs/2507.22291">this paper</a> for details), across two periods of time on a setup that runs <em>on my iPad’s browser</em>. Just let that sink in. What questions can we tackle that we couldn’t before? More importantly, which ones will we <em>actually</em> consider now that the price of asking is so low? I think we’re about to find out, and I can’t wait.</p>
+<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>
+<section class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1" role="doc-endnote">
+<p>I’m pasting here screenshots because it’s 2026 and YOLO, but you can play with the interactive map on the workshop site.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:2" role="doc-endnote">
+<p>You can play with the feature <a href="https://earth.google.com/web/search/Battersea+Power+Station,+Circus+Road+West,+London/@51.48225821,-0.14362618,13.41773656a,854.69539249d,35y,0h,0t,0r/data=Cj4iJgokCZLpQLu9uElAERM7-U3ctklAGcQWgB32I9O_IeBuZyxozNW_KhAIARIKMjAyMC0wMS0xOBgBQgIIAUICCABKDQj___________8BEAA">here</a>.&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:3" role="doc-endnote">
+<p>This is a joke. I know it’s, at least, five days.&#160;<a href="#fnref:3" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</section>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
 
 		<a href="https://me.darribas.org/2026/05/01/happy-release-day-to-those.html" class="u-url"><time class="dt-published" datetime="2026-05-01 08:56:01 &#43;0100">May 1, 2026</time></a>
 
