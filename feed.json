@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://darribas.micro.blog/2026/05/27/new-gladpodcast-episode-embeddings-for.html",
+				
+				"content_html": "<p>New #GLaDpodcast <a href=\"https://www.podbean.com/eas/pb-8ebk6-1ad3db9\">episode</a>: <em>embeddings for the rest of us!</em> Join us for a (hopefully) &ldquo;lay enough&rdquo; conversation about one of the most interesting ideas in geo-data that the last few years have produced.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "New #GLaDpodcast [episode](https://www.podbean.com/eas/pb-8ebk6-1ad3db9): _embeddings for the rest of us!_ Join us for a (hopefully) \"lay enough\" conversation about one of the most interesting ideas in geo-data that the last few years have produced.\n\n<iframe title=\"Embeddings for the rest of us\" height=\"150\" width=\"100%\" style=\"border: none;\" scrolling=\"no\" data-name=\"pb-iframe-player\" src=\"https://www.podbean.com/player-v2/?i=8ebk6-1ad3db9-pb&from=pb6admin&share=1&download=1&rtl=0&fonts=Arial&skin=f6f6f6&font-color=auto&logo_link=episode_page&btn-skin=7\" allowfullscreen=\"\"></iframe>\n",
+				"date_published": "2026-05-27T11:40:28+01:00",
+				"url": "https://me.darribas.org/2026/05/27/new-gladpodcast-episode-embeddings-for.html",
+				"tags": ["Notes","Academic"]
+			},
+			{
 				"id": "http://darribas.micro.blog/2026/05/22/no-filter-like-the-southern.html",
 				
 				"content_html": "<p>No filter like the Southern Europe filter…</p>\n<p>L’Aquila, May’26</p>\n<!-- raw HTML omitted -->\n",
